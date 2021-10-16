@@ -5,4 +5,4 @@ Example of use:
     const { counter, increment, decrement, reset } = useCounter(10);
 ```
 
-useCounter() // Gets a default value
+```useCounter()``` // Gets a default value
